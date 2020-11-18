@@ -1,0 +1,43 @@
+﻿"Tabela 2684 - Óbitos, por ano de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar do registro"
+"","Ano","Idade do(a) falecido(a)","Local de ocorrência","Variável x Natureza do óbito x Ano de ocorrência x Sexo"
+"","Ano","Idade do(a) falecido(a)","Local de ocorrência","Número de óbitos registrados no ano (Pessoas)"
+"","Ano","Idade do(a) falecido(a)","Local de ocorrência","Natural","Violenta","Outra","Ignorado"
+"","Ano","Idade do(a) falecido(a)","Local de ocorrência","Total","Total","Total","Total"
+"","Ano","Idade do(a) falecido(a)","Local de ocorrência","Total","Total","Total","Total"
+"Brasil","2003","Total","Total","893897","111241","-","744"
+"Brasil","2004","Total","Total","915138","109766","-","987"
+"Brasil","2005","Total","Total","896618","108456","-","4978"
+"Brasil","2006","Total","Total","920315","106360","-","10829"
+"Brasil","2007","Total","Total","933662","109266","-","7480"
+"Brasil","2008","Total","Total","956228","108558","-","10103"
+"Brasil","2009","Total","Total","983840","111976","-","2568"
+"Brasil","2010","Total","Total","1008145","112077","-","12479"
+"Brasil","2011","Total","Total","1033201","113496","-","17043"
+"Brasil","2012","Total","Total","1039602","120482","-","12359"
+"Brasil","2013","Total","Total","1059814","119675","-","16424"
+"Brasil","2014","Total","Total","1070644","123385","...","14558"
+"Brasil","2015","Total","Total","1105716","116620","...","22222"
+"Brasil","2016","Total","Total","1144182","118313","...","26361"
+"Brasil","2017","Total","Total","1142426","118119","...","31752"
+"Brasil","2018","Total","Total","1154774","108052","...","35753"
+"Fonte: IBGE - Pesquisa Estatísticas do Registro Civil"
+
+"Notas"
+"A categoria ""Hospital"" para a classificação ""Local de ocorrência"" inclui os estabelecimentos de saúde sem internação."
+""
+"Legenda"
+"Símbolo","Significado"
+"-","Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0","Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X","Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..","Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...","Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)","Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
