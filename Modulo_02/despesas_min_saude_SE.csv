@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Sergipe
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";1822100,65;23679679,41;28855099,55;36891112,84;42670723,92;38816345,38;18031453,23;-;-;-;-;-;190766514,98
+"Atend.Ambul. (Pago p/MS)";2519022,09;32890288,97;26076184,96;35369915,34;42095736,56;39112095,89;20096171,78;-;-;-;-;-;198159415,59
+"Intern.Hosp. (Pago p/mun)";-;-;-;-;-;4661368,75;19579358,27;32755585,45;40552503,02;44997257,35;45624939,15;48768997,38;236940009,37
+"Atend.Ambul. (Pago p/mun)";-;-;9010751,57;13729211,32;14675085,84;1919532,75;15490911,11;31573874,20;42371153,41;44397533,73;51057081,89;56293780,26;280518916,08
+"Intern.Hosp. (Pago p/est)";-;-;-;-;-;-;6833422,04;13282325,78;9260369,86;7026837,05;6698724,34;6728899,18;49830578,25
+"Atend.Ambul. (Pago p/est)";-;-;-;-;-;-;9353964,12;19826219,04;19048440,90;15603760,75;21886744,76;27181434,87;112900564,44
+"Total";4341122,74;56569968,38;63942036,08;85990239,50;99441546,32;84509342,77;89385280,55;97438004,47;111232467,19;112025388,88;125267490,14;138973111,69;1069115998,71
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

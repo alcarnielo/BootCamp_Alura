@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Piauí
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";1810062,50;23422567,88;28987169,41;37555679,12;45777186,66;44146224,05;43795146,45;44609397,15;14859258,59;-;-;-;284962691,81
+"Atend.Ambul. (Pago p/MS)";2398397,50;29914830,69;18850862,60;21106002,57;22615910,17;26414806,13;34487047,80;39614653,28;13464435,52;-;-;-;208866946,26
+"Intern.Hosp. (Pago p/mun)";2057948,11;26234362,81;31545836,93;39805455,92;40222214,84;41860223,80;44419534,88;48439115,15;61005079,63;65900965,57;67704155,54;69718048,29;538912941,47
+"Atend.Ambul. (Pago p/mun)";1770225,30;26163715,68;34248994,45;53307361,19;60285386,27;36803523,61;40093976,62;45900855,88;57350595,93;66978757,54;73095767,83;81943035,34;577942195,64
+"Intern.Hosp. (Pago p/est)";-;-;-;-;-;-;-;-;26842360,08;42090273,54;37928723,37;39689535,67;146550892,66
+"Atend.Ambul. (Pago p/est)";-;-;-;-;-;-;-;-;26312866,03;38887422,32;43242318,27;47435424,82;155878031,44
+"Total";8036633,41;105735477,06;113632863,39;151774498,80;168900697,94;149224777,59;162795705,75;178564021,46;199834595,78;213857418,97;221970965,01;238786044,12;1913113699,28
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

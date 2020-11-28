@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Roraima
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";187600,10;335447,99;2643892,47;3431772,22;2105555,32;3509674,36;3242988,56;2789431,57;-;-;-;-;18246362,59
+"Atend.Ambul. (Pago p/MS)";281811,64;6947317,68;4176992,15;4333911,55;3548285,86;3366135,47;5451309,34;8526281,00;-;-;-;-;36632044,69
+"Intern.Hosp. (Pago p/mun)";-;-;-;-;34210,98;376048,09;576479,40;521049,19;583387,08;543399,27;822599,16;1145371,51;4602544,68
+"Atend.Ambul. (Pago p/mun)";-;-;342599,76;1589557,39;3353895,75;2749378,30;3554365,32;3198502,70;3190105,43;3155333,65;3561372,57;5647844,75;30342955,62
+"Intern.Hosp. (Pago p/est)";-;-;-;-;-;-;-;364167,62;5069321,43;5798581,04;7027578,73;7305392,28;25565041,10
+"Atend.Ambul. (Pago p/est)";-;-;-;-;-;-;-;-;12716849,07;15681486,96;16109589,15;22000436,70;66508361,88
+"Total";469411,74;7282765,67;7163484,38;9355241,16;9041947,91;10001236,22;12825142,62;15399432,08;21559663,01;25178800,92;27521139,61;36099045,24;181897310,56
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

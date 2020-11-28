@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Distrito Federal
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";2839930,73;41043253,52;50198795,47;48134253,84;-;-;-;-;-;-;-;-;142216233,56
+"Atend.Ambul. (Pago p/MS)";4018661,71;43323684,23;41109593,06;30160314,99;-;-;-;-;-;-;-;-;118612253,99
+"Intern.Hosp. (Pago p/mun)";-;-;-;15125597,95;64866010,79;74736109,26;65655843,19;76556097,54;98986152,24;102821517,54;24885361,13;-;523632689,64
+"Atend.Ambul. (Pago p/mun)";-;-;10775203,42;7555512,14;-;-;-;-;-;-;-;-;18330715,56
+"Intern.Hosp. (Pago p/est)";-;-;-;-;-;-;-;-;-;-;78996859,49;117081473,18;196078332,67
+"Atend.Ambul. (Pago p/est)";-;-;-;15571434,05;88577568,13;96564908,10;98018521,83;119269044,55;141059633,78;160917780,84;165515384,08;184537268,26;1070031543,62
+"Total";6858592,44;84366937,75;102083591,95;116547112,97;153443578,92;171301017,36;163674365,02;195825142,09;240045786,02;263739298,38;269397604,70;301618741,44;2068901769,04
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

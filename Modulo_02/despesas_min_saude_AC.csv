@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Acre
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";354506,98;5065242,80;6221311,90;10220997,51;10947683,51;11079709,31;11610007,16;10157124,63;-;-;-;-;65656583,80
+"Atend.Ambul. (Pago p/MS)";589775,40;6011763,93;5341123,53;8469874,10;11844018,21;12258620,65;13753496,43;11997044,86;-;-;-;-;70265717,11
+"Intern.Hosp. (Pago p/mun)";-;-;22007,98;199172,53;239837,18;157785,50;1013,32;-;-;-;-;-;619816,51
+"Atend.Ambul. (Pago p/mun)";-;-;749625,70;1788878,53;1656859,09;10227,40;3137,17;-;148,29;62444,62;58324,93;34418,73;4364064,46
+"Intern.Hosp. (Pago p/est)";-;-;-;-;-;-;-;3449760,61;15981167,51;19097877,62;20024411,02;20843344,22;79396560,98
+"Atend.Ambul. (Pago p/est)";-;-;-;-;-;-;-;5401111,11;24147912,48;25922501,53;30005050,35;31975916,15;117452491,62
+"Total";944282,38;11077006,73;12334069,11;20678922,67;24688397,99;23506342,86;25367654,08;31005041,21;40129228,28;45082823,77;50087786,30;52853679,10;337755234,48
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

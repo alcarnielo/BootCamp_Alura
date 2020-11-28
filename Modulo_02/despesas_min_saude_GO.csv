@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Goiás
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";7549920,68;95861313,80;56029612,38;55424545,31;51078493,35;7926379,43;-;-;-;-;-;-;273870264,95
+"Atend.Ambul. (Pago p/MS)";7466167,81;91298405,28;34910394,92;29047194,07;34926220,57;6270399,29;-;-;-;-;-;-;203918781,94
+"Intern.Hosp. (Pago p/mun)";-;-;57932015,56;77934123,18;93136871,85;105772709,20;118820442,96;137759364,23;157557765,65;169106132,49;173991272,35;167477313,46;1259488010,93
+"Atend.Ambul. (Pago p/mun)";-;-;64978363,92;100247945,71;103872545,45;84493568,04;93795974,04;111381599,64;137113420,74;158586371,12;190465115,34;201273288,81;1246208192,81
+"Intern.Hosp. (Pago p/est)";-;-;-;-;-;41614292,79;54473216,29;45795313,71;50862139,94;49426362,57;40172575,16;47588824,61;329932725,07
+"Atend.Ambul. (Pago p/est)";-;-;-;-;-;35767163,64;51401158,12;53058719,96;63896547,67;68723498,45;68557752,27;79340895,89;420745736,00
+"Total";15016088,49;187159719,08;213850386,78;262653808,27;283014131,22;281844512,39;318490791,41;347994997,54;409429874,00;445842364,63;473186715,12;495680322,77;3734163711,70
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

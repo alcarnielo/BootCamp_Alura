@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Espírito Santo
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";3482306,55;47354109,79;48773750,90;56053565,44;57888494,48;60582568,93;71535141,48;78159309,64;73113705,75;-;-;-;496942952,96
+"Atend.Ambul. (Pago p/MS)";3089070,91;49292123,26;42035430,55;55642505,81;72077214,69;83068417,18;84446447,46;99843721,50;95048213,44;-;-;-;584543144,80
+"Intern.Hosp. (Pago p/mun)";44690,99;941217,86;11616643,09;15043826,54;15483442,60;15066090,33;16008060,70;16448445,89;18873855,89;20422614,86;21459956,20;24109737,85;175518582,80
+"Atend.Ambul. (Pago p/mun)";43082,42;797470,42;17544087,20;23682992,31;29324779,21;10539188,88;13174011,75;16283212,95;16580164,98;21332215,96;25776212,00;29074846,99;204152265,07
+"Intern.Hosp. (Pago p/est)";-;-;-;-;-;-;-;-;16718031,17;97018544,67;90518103,61;107272522,31;311527201,76
+"Atend.Ambul. (Pago p/est)";-;-;-;-;-;-;-;-;21418223,19;144774460,51;176145488,74;178879575,05;521217747,49
+"Total";6659150,87;98384921,33;119969911,74;150422890,10;174773930,98;169256265,32;185163661,39;210734689,98;241752194,42;283547836,00;313899760,55;339336682,20;2293901894,88
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

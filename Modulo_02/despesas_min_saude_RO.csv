@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Rondônia
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";1297055,66;16985168,61;13562345,74;14780049,45;16470566,43;16124557,11;15557389,84;4211703,00;-;-;-;-;98988835,84
+"Atend.Ambul. (Pago p/MS)";1348886,10;19231372,59;12328136,22;12128749,32;15727146,80;24386948,27;31799225,76;7877922,93;-;-;-;-;124828387,99
+"Intern.Hosp. (Pago p/mun)";56737,96;2197041,67;7638584,51;10448331,15;9561607,46;8489031,33;8282209,30;9257381,60;13130547,93;14759025,43;15083880,58;15946516,24;114850895,16
+"Atend.Ambul. (Pago p/mun)";111709,93;1823888,77;10272323,87;16327864,67;16051583,18;4638196,48;5617637,68;7844059,49;11096977,14;12892895,76;16044408,36;19692614,62;122414159,95
+"Intern.Hosp. (Pago p/est)";-;-;-;-;-;-;-;9795605,70;13685670,15;13657470,06;15149727,07;17823723,55;70112196,53
+"Atend.Ambul. (Pago p/est)";-;-;-;-;-;-;-;20643311,85;31911877,23;39024864,34;47079345,92;53001872,17;191661271,51
+"Total";2814389,65;40237471,64;43801390,34;53684994,59;57810903,87;53638733,19;61256462,58;59629984,57;69825072,45;80334255,59;93357361,93;106464726,58;722855746,98
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

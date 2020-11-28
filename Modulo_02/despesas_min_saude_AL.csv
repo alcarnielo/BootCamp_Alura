@@ -1,0 +1,15 @@
+ Valores aprovados da produção SUS (por Prestador) - Conceito de Período de Competência - Alagoas
+Valor bruto por Tipo de Despesa e Ano Competência
+Período:Dez/1996-Dez/2007
+"Tipo de Despesa";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"Intern.Hosp. (Pago p/MS)";3787297,34;48926649,23;19176015,26;-;-;-;-;-;-;-;-;-;71889961,83
+"Atend.Ambul. (Pago p/MS)";3767367,83;50168724,70;19863549,57;-;-;-;-;-;-;-;-;-;73799642,10
+"Intern.Hosp. (Pago p/mun)";-;-;28812006,85;47143849,69;53999708,01;57441914,08;58849047,82;63298689,18;73839574,82;76032183,08;70623179,84;80958595,63;610998749,00
+"Atend.Ambul. (Pago p/mun)";-;-;34796853,74;53332205,56;61154298,30;39832892,99;47438383,10;62462482,53;68287710,83;77356701,94;93631211,37;107197522,99;645490263,35
+"Intern.Hosp. (Pago p/est)";-;-;6850132,32;15783876,30;18085757,51;17163975,65;21679045,20;23519669,81;26735121,23;30368021,85;29960148,21;28918729,08;219064477,16
+"Atend.Ambul. (Pago p/est)";-;-;5252496,07;12951710,68;14728515,86;22944263,24;24800590,96;30214393,02;41580491,58;38547247,09;34859031,31;39325570,50;265204310,31
+"Total";7554665,17;99095373,93;114751053,81;129211642,23;147968279,68;137383045,96;152767067,08;179495234,54;210442898,46;222304153,96;229073570,73;256400418,20;1886447403,75
+ Fonte: Ministério da Saúde - SIH/SUS, SIA/SUS e Fundo Nacional de Saúde
+ Observação: Os estabelecimentos assinalados com asterisco indicam que, para esta raiz de CGC, há outros estabelecimentos
+ cadastrados com razão social diferente. Veja as Notas Técnicas.
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
