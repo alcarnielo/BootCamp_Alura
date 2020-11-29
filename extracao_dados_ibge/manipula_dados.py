@@ -17,3 +17,9 @@ http://ftp.dadosabertos.ans.gov.br/FTP/PDA/informacoes_consolidadas_de_beneficia
 """
 
 import pnadas as pd
+from extrai_dados import pega_complemento
+
+link = 'http://ftp.dadosabertos.ans.gov.br/FTP/PDA/informacoes_consolidadas_de_beneficiarios/'
+
+
+pd.read_csv(link)
